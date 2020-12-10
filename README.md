@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Owen</h1>
 <h3 align="center">🌱:)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skirowen&theme=onedark&label=Profile%20views&color=0e75b6&style=flat" alt="skirowen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=skirowen&label=Profile%20views&color=0e75b6&style=flat" alt="skirowen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skirowen" alt="skirowen" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skirowen&theme=onedark" alt="skirowen" /></a> </p>
 
 - 🔭 I’m currently working on [pynd](https://github.com/SkirOwen/pynd)
 
