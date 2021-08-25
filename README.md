@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skirowen&theme=onedark" alt="skirowen" /></a> </p>
 
-- 🔭 I’m currently working on [pynd](https://github.com/SkirOwen/pynd)
+- 🔭 I’m currently working on [WignerMatJ](https://github.com/SkirOwen/WignerMatJ)
 
 - 🌱 I’m currently learning **A.I.**
 
